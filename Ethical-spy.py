@@ -25,14 +25,10 @@ banner = """
             ----------------------- Coded-By(Engima_Ali)----------------------                                                    
 """
 
-
 colored_banner = colored(banner, "cyan")
-
-
 print(colored_banner)
 
-
-TOKEN = 'put here bot token'  
+TOKEN = 'put here bot token'
 
 bot = telebot.TeleBot(TOKEN)
 cd = os.path.expanduser("~")
