@@ -1,4 +1,4 @@
-# Ethical-Spy [This is not malware]
+# Ethical-Spy [This is not stealer or rat]
 
 <p align="center">
 🖥️🤖 Manage Your Windows PC with Ease Using a Telegram Bot 🤖🖥️"
